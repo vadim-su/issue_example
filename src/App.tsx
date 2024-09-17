@@ -1,4 +1,4 @@
-import "@radix-ui/themes/styles.css" with { type: "css" };
+import "@radix-ui/themes/styles.css";
 import { Button, Theme } from "@radix-ui/themes";
 
 function App() {
